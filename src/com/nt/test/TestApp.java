@@ -15,6 +15,7 @@ public class TestApp {
 		int per=cal.per(20, 30);
 		System.out.println("percentage is"+per);
 		System.out.println("i have done calculation Application");
+		System.out.println("if any error comes let me knoew i will solve it");
 		
 
 	}
