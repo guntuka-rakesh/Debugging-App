@@ -14,6 +14,7 @@ public class TestApp {
 		System.out.println("divition is"+div);
 		int per=cal.per(20, 30);
 		System.out.println("percentage is"+per);
+		System.out.println("i have done calculation Application");
 		
 
 	}
